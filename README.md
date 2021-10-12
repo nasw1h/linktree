@@ -33,7 +33,7 @@
 
 - This is an open source project that serves as a free alternative to the Linktree website, made only in html and css.
 
-- [Deploy](https://johnemerson1406.github.io/linktree)
+- [Deploy](https://naxwh.github.io/linktree)
 
 ## :rocket: Getting started
 
